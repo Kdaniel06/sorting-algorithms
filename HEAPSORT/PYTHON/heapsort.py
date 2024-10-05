@@ -1,14 +1,5 @@
 """
 Heapsort Algorithm Implementation
-
-This script implements the Heapsort algorithm, a comparison-based sorting 
-technique that uses a binary heap data structure. Heapsort has a time 
-complexity of O(n log n) and is known for its efficient performance 
-and in-place sorting capabilities. The algorithm consists of two main 
-phases: building a max heap from the input data and repeatedly 
-extracting the maximum element from the heap to sort the array. 
-
-Author: Daniel Cascante Vargas
 """
 
 def heapsort(inputArray):

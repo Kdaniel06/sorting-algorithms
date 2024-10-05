@@ -1,4 +1,4 @@
-import java.util.Arrays; // Importa la clase Arrays
+import java.util.Arrays; 
 
 public class App {
 
@@ -54,7 +54,7 @@ public class App {
         int[] array = {5, 8, 15, 20, 4, 10, 3, 9, 2, 0};
         heapsort(array);
 
-        // Imprimir el arreglo ordenado
+        // Print the result
         System.out.println("Sorted array: " + Arrays.toString(array));
     }
 }
