@@ -1,5 +1,5 @@
 # Heapsort Algorithm 📊
-This project contains the implementation of the Heapsort algorithm, a comparison-based sorting technique that utilizes a binary heap data structure. This algorithm is known for its efficiency and in-place sorting capabilities, making it suitable for sorting large datasets.
+This folder contains the implementation of the Heapsort algorithm, a comparison-based sorting technique that utilizes a binary heap data structure. This algorithm is known for its efficiency and in-place sorting capabilities, making it suitable for sorting large datasets.
 
 ## Description
 Heapsort is a popular sorting algorithm with a consistent time complexity of O(n log n) for all cases. It is efficient and performs well for large datasets, and it does not require additional memory for its operations. The implementation presented here follows these two main phases:
